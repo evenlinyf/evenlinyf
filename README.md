@@ -1,7 +1,7 @@
 ### Hello World
 -   Apple Developer,Focusing on iOS
-- 🌱 Learning Algorithm
 - 🐱 懒癌晚期的夜猫子
+- 📱 数码爱好者
 - 🎸 吉他初学者， 唱不上高音的音乐爱好者
 
 💊
