@@ -1,12 +1,12 @@
 ### Hello World
 -   Apple Developer,Focusing on iOS
 - 🐱 懒癌晚期的夜猫子
-- 📱 数码爱好者
+- 🌵 Developing Flutter
 - 🎸 吉他初学者， 唱不上高音的音乐爱好者
 
 💊
 
-[![evenlinyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenlinyf)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![evenlinyf's GitHub stats](https://github-readme-stats.vercel.app/api?username=evenlinyf)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
